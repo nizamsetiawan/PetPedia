@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="animal_name">Nama Hewan</string>
+    <string name="animal_description">Deskripsi Hewan</string>
+    <string name="animal_habitat">Habitat</string>
+    <string name="animal_characteristics">Karakteristik</string>
+    <string name="share">Bagikan</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="user_name">Ika jihan pratiwi</string>
+    <string name="email">ikajihan971@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Singa - Raja Hutan</item>
+        <item>Gajah - Raksasa Lembut</item>
+        <item>Harimau - Pemangsa Soliter</item>
+        <item>Lumba-Lumba - Penguasa Laut yang Cerdas</item>
+        <item>Panda - Simbol Kedamaian</item>
+        <item>Kanguru - Pelompat Australia</item>
+        <item>Penguin - Perenang Kutub Selatan</item>
+        <item>Jerapah - Hewan Berleher Panjang</item>
+        <item>Komodo - Naga dari Timur Indonesia</item>
+        <item>Burung Hantu - Pemburu Malam yang Hening</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Singa adalah salah satu kucing besar yang paling dikenal di dunia. Dikenal sebagai "Raja Hutan", singa memiliki surai yang megah pada jantan dan merupakan pemangsa puncak di ekosistem sabana Afrika. Mereka hidup dalam kelompok yang disebut kawanan, di mana para betina biasanya yang berburu untuk kelompok. Mengaumannya yang keras dapat terdengar hingga jarak delapan kilometer.</item>
+        <item>Gajah adalah mamalia darat terbesar di dunia. Hewan ini dikenal karena ingatan yang kuat dan kecerdasannya. Gajah memiliki belalai yang fleksibel dan digunakan untuk berbagai tujuan, seperti mengambil makanan, minum, dan berkomunikasi. Mereka hidup dalam kelompok matriarkal yang dipimpin oleh seekor betina tertua dan sangat menjaga kebersamaan serta kesejahteraan anggota kawanan mereka.</item>
+        <item>Harimau adalah salah satu kucing terbesar di dunia, terkenal karena bulu belangnya yang mencolok dan kekuatan luar biasa. Sebagai pemburu soliter, harimau lebih suka berburu di malam hari dan mengandalkan kekuatannya yang luar biasa untuk menjatuhkan mangsanya. Mereka biasanya hidup di habitat hutan tropis, sabana, dan rawa, dan merupakan salah satu predator puncak di Asia.</item>
+        <item>Lumba-lumba adalah mamalia laut yang sangat cerdas dan dikenal karena sifat sosialnya. Mereka hidup dalam kelompok dan sering berkomunikasi melalui suara klik dan peluit. Lumba-lumba juga terkenal karena kemampuan bermain mereka, sering melompat di atas permukaan air dan berenang di dekat kapal. Kemampuan ekolokasinya membuat mereka ahli dalam berburu ikan dan berinteraksi dengan lingkungan sekitarnya.</item>
+        <item>Panda adalah ikon perdamaian dan konservasi, dengan bulu hitam dan putih yang khas. Mereka adalah hewan herbivora yang sebagian besar makanannya terdiri dari bambu. Meskipun terkenal lamban dan damai, panda memiliki cakar yang kuat dan gigi tajam. Panda juga dikenal sebagai spesies yang dilindungi, mengingat populasinya yang terancam punah akibat kerusakan habitat.</item>
+        <item>Kanguru adalah simbol Australia, dikenal karena kemampuannya melompat dengan kecepatan tinggi menggunakan kaki belakang yang kuat. Hewan ini adalah marsupial, yang berarti mereka membawa anak-anaknya di kantong khusus di perut. Kanguru biasanya hidup di padang rumput dan sabana, berkelompok, dan mengandalkan kaki belakang serta ekornya untuk keseimbangan saat bergerak.</item>
+        <item>Penguin adalah burung yang tidak bisa terbang, tetapi merupakan perenang yang sangat ahli. Mereka hidup di wilayah Kutub Selatan dan daerah sekitarnya, dengan bulu hitam dan putih yang khas. Penguin menghabiskan sebagian besar hidup mereka di air, berburu ikan dan krill. Adaptasi mereka terhadap suhu dingin sangat luar biasa, dengan lapisan lemak yang tebal dan bulu yang padat untuk menjaga suhu tubuh mereka tetap hangat.</item>
+        <item>Jerapah adalah hewan darat tertinggi di dunia, dengan leher yang panjang dan tubuh besar yang elegan. Mereka menggunakan leher panjang mereka untuk mencapai dedaunan tinggi yang tidak dapat dijangkau oleh hewan lain, menjadikan mereka penggemar akasia. Pola bercak-bercak unik di tubuh jerapah tidak ada yang sama, membuat setiap jerapah memiliki “sidik jari” yang khas.</item>
+        <item>Komodo adalah kadal terbesar di dunia yang hanya ditemukan di beberapa pulau di Indonesia, termasuk Pulau Komodo dan Rinca. Hewan ini terkenal karena ukuran tubuhnya yang besar, bisa mencapai tiga meter panjangnya, serta gigitan beracunnya. Komodo adalah predator puncak di habitatnya, memakan berbagai jenis hewan, dan mampu melacak mangsanya dari jarak jauh dengan indra penciuman yang tajam.</item>
+        <item>Burung hantu dikenal sebagai pemburu malam yang hening dan misterius. Mereka memiliki kemampuan terbang yang nyaris tanpa suara berkat bulu khusus yang meredam suara gerakannya. Dengan penglihatan dan pendengaran yang tajam, burung hantu dapat menangkap mangsanya dengan akurat dalam kegelapan total. Kepala mereka bisa berputar hampir 270 derajat, memungkinkan mereka untuk mengamati lingkungan sekitar dengan luas.</item>
+    </string-array>
+
+    <string-array name="data_habitat">
+        <item>Savana Afrika</item>
+        <item>Hutan Asia dan Afrika</item>
+        <item>Hutan tropis, sabana, dan rawa</item>
+        <item>Samudera dan laut tropis</item>
+        <item>Hutan bambu di China</item>
+        <item>Padang rumput Australia</item>
+        <item>Kawasan Kutub Selatan</item>
+        <item>Savana dan hutan di Afrika</item>
+        <item>Pulau Komodo dan sekitarnya</item>
+        <item>Hutan dan padang di seluruh dunia</item>
+    </string-array>
+
+    <string-array name="data_characteristics">
+        <item>Raja Hutan, pemangsa puncak</item>
+        <item>Mamalia terbesar, ingatan kuat</item>
+        <item>Pemburu soliter, kekuatan besar</item>
+        <item>Cerdas dan sosial, penguasa laut</item>
+        <item>Herbivora, ikon konservasi</item>
+        <item>Pelompat, marsupial</item>
+        <item>Perenang handal, tidak bisa terbang</item>
+        <item>Leher panjang, penggemar akasia</item>
+        <item>Kadal terbesar, beracun</item>
+        <item>Pemburu malam, kemampuan terbang hening</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lion</item>
+        <item>@drawable/elephant</item>
+        <item>@drawable/tiger</item>
+        <item>@drawable/dolphin</item>
+        <item>@drawable/panda</item>
+        <item>@drawable/kangaroo</item>
+        <item>@drawable/penguin</item>
+        <item>@drawable/giraffe</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/owl</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_animal">Detail Hewan</string>
+    <string name="back">kembali</string>
+
+</resources>
